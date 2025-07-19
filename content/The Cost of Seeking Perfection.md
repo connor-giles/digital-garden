@@ -1,5 +1,5 @@
 ---
-title: The Cost of Seeking Perfection
+title: The cost of seek perfection
 draft: false
 tags:
   - seed

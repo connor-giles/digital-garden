@@ -1,3 +1,9 @@
+---
+title: A gardening guide for your mind
+draft: false
+tags:
+  - seed
+---
 What is a digital garden? How can I use it? What does it look like? 
 
 First and foremost its a digital garden, not a digital library or vault. Ideas should be planted, grown, blossomed, pruned, and when necessary... killed. The garden follows 3 major ideas (tags)

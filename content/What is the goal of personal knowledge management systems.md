@@ -1,4 +1,9 @@
-#seed 
+---
+title: What is the goal of personal knowledge management systems
+draft: false
+tags:
+  - seed
+---
 
 ![[Pasted image 20250716224023.png]]
 You hear something new... that stuff is [[data]], your thoughts on that data, thats [[information]]. Knowledge is giving those ideas a way to link to each other, but once those links have been made, that is where the magic happens.

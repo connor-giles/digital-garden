@@ -1,3 +1,9 @@
+---
+title: Folders kill creativity
+draft: false
+tags:
+  - seed
+---
 Due to the old days with filing cabinets, and the existing format of computer operating systems, most humans think and organize in a file or folder set up... *but folders are terrible for creativity*
 
 **What are the issues with folders?**
