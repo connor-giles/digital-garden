@@ -1,0 +1,1 @@
+These are collections of notes on articles, books, and readings. They are the seeds that form the basis of my ideas and thoughts.

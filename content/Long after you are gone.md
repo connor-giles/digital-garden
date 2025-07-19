@@ -1,0 +1,3 @@
+The only way to live after you are gone, is to create original work. Perhaps you wrote a book, or a software app, or started a company, or a social group. Even having children, albeit life and God handle most of the work in this situation, is a creation of original work that lives beyond your expiration date.
+
+The most important idea here? The goal is to not make history, although that could be a by-product. It's to simple create something good enough, that people will keep building upon it when you are gone, literally, or in-essence. 
