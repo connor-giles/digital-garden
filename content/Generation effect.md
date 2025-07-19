@@ -1,3 +1,9 @@
+---
+title: Generation effect
+draft: false
+tags:
+  - seed
+---
 A cognitive phenomenon where information that is self-generated (produced by the individual) is better remembered than information that is read or heard
 
 See also:

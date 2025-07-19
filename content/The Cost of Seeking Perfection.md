@@ -4,8 +4,6 @@ draft: false
 tags:
   - seed
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
 
 In my years, I have learned many things about myself, and I could go into large detail about my quirks and nuances, but that is for another time. I want to to instead draw attention to my fear of making mistakes and my desire to *do everything right*. 
 

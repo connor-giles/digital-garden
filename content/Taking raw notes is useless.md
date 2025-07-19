@@ -1,3 +1,9 @@
+---
+title: Taking raw notes is useless
+draft: false
+tags:
+  - seed
+---
 Mechanical note-taking, such as listening and passively writing information down is useless for memory, and especially useless for creativity.
 
 Firstly, the [[Generation effect|generation effect]] shows that we remember better when we create our own version of things.
